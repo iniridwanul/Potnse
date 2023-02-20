@@ -4,7 +4,7 @@
 ![](assets/maintained.svg)
 ![](assets/license.svg)
 
-<h2>Folder Description</h2>
+<h2>Folders Description</h2>
 
-`proxies/country` > includes exit-node's geolocation. <br/>
-`proxies/country/anonymous` > anonymous, but includes exit-node's geolocation.
+`Proxies/Country` > includes exit-node's geolocation. <br/>
+`Proxies/Country/Anonymous` > anonymous, but includes exit-node's geolocation.
