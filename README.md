@@ -6,5 +6,7 @@
 
 <h2>Folders Description</h2>
 
-`Proxies/Country` > includes exit-node's geolocation. <br/>
-`Proxies/Country/Anonymous` > anonymous, but includes exit-node's geolocation.
+`Proxies/Country` </br>
+includes exit-node's geolocation. <br/>
+`Proxies/Country/Anonymous` </br>
+anonymous, but includes exit-node's geolocation.
